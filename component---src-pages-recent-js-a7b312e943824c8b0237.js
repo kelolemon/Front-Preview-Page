@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"Zgk/":function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return o}));t("q1tI");var u=t("XuZe"),c=t("qKvR");function o(){return Object(c.b)(u.a,null,Object(c.b)("h1",null," here"),Object(c.b)("p",null,"Todo: recent"))}}}]);
+//# sourceMappingURL=component---src-pages-recent-js-a7b312e943824c8b0237.js.map

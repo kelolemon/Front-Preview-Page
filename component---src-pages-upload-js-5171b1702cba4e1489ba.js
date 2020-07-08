@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{YMul:function(n,u,e){"use strict";e.r(u),e.d(u,"default",(function(){return c}));e("q1tI");var t=e("XuZe"),o=e("qKvR");function c(){return Object(o.b)(t.a,null,Object(o.b)("h1",null," here"),Object(o.b)("p",null,"Todo: upload"))}}}]);
+//# sourceMappingURL=component---src-pages-upload-js-5171b1702cba4e1489ba.js.map

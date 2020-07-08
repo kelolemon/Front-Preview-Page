@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{AXQF:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return o}));t("q1tI");var u=t("XuZe"),c=t("qKvR");function o(){return Object(c.b)(u.a,null,Object(c.b)("h1",null," here"),Object(c.b)("p",null,"Todo: myself"))}}}]);
+//# sourceMappingURL=component---src-pages-myself-js-c9c32d13034411f41945.js.map

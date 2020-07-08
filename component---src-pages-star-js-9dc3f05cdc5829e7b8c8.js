@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{UX1n:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return o}));t("q1tI"),t("XuZe");var u=t("0vn1"),c=t("qKvR");function o(){return Object(c.b)(u.a,null,Object(c.b)("h1",null," here"),Object(c.b)("p",null,"Todo: star file"))}}}]);
+//# sourceMappingURL=component---src-pages-star-js-9dc3f05cdc5829e7b8c8.js.map

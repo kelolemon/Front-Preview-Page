@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{"g2/T":function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return o}));t("q1tI");var u=t("XuZe"),c=t("qKvR");function o(){return Object(c.b)(u.a,null,Object(c.b)("h1",null," here"),Object(c.b)("p",null,"Todo: share"))}}}]);
+//# sourceMappingURL=component---src-pages-share-js-97e7300d46e167ef27b9.js.map

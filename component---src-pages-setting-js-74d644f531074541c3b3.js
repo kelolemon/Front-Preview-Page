@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{"+QMU":function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return o}));e("q1tI"),e("XuZe");var u=e("0vn1"),c=e("qKvR");function o(){return Object(c.b)(u.a,null,Object(c.b)("h1",null," here"),Object(c.b)("p",null,"Todo: setting"))}}}]);
+//# sourceMappingURL=component---src-pages-setting-js-74d644f531074541c3b3.js.map
