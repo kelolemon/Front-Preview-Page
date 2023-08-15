@@ -1,0 +1,1 @@
+import{r as t,F as a,b as e}from"./index-83df2432.js";import{P as l}from"./PlusOutlined-7b3dd7ad.js";var r=function(n,s){return t.createElement(a,e(e({},n),{},{ref:s,icon:l}))};r.displayName="PlusOutlined";const d=t.forwardRef(r);export{d as P};
